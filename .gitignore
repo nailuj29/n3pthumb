@@ -1,3 +1,5 @@
 ColPic_X64.dll
 libColPic.dylib
 libColPic.so
+
+*.gcode
